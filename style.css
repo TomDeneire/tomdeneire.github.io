@@ -38,8 +38,8 @@ body {
   color: #8a8fa3; }
 
 * {
-  margin: 0;
-  padding: 10%;
+  margin: 10;
+  padding: 0;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
