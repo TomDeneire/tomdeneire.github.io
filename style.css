@@ -36,12 +36,11 @@ body {
   font-weight: normal;
   font-style: normal;
   color: #8a8fa3;
-  margin-left: 50%;
+  margin-left: 45%;
   margin-top: 5%;
   background-color: #dee0e6;}
 
 * {
-  margin: 10;
   padding: 0;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
