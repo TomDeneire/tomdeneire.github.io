@@ -35,7 +35,10 @@ body {
   font-family: "Poppins", sans-serif;
   font-weight: normal;
   font-style: normal;
-  color: #8a8fa3; }
+  color: #8a8fa3;
+  margin-left: 50%;
+  margin-top: 5%;
+  background-color: #dee0e6;}
 
 * {
   margin: 10;
