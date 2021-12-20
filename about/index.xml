@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Tom Deneire</title>
+    <link>https://tomdeneire.github.io/about/</link>
+    <description>Recent content in About on Tom Deneire</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2021 Tom Deneire</copyright>
+    <lastBuildDate>Sun, 19 Dec 2021 18:57:12 +0700</lastBuildDate><atom:link href="https://tomdeneire.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
